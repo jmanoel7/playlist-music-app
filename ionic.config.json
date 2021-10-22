@@ -1,0 +1,7 @@
+{
+  "name": "playlist-music-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
