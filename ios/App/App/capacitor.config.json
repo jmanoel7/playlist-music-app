@@ -1,1 +1,6 @@
-{}
+{
+	"appId": "com.blogspot.playlistmusicapp",
+	"appName": "Play List Music App",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
