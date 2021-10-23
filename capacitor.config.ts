@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'playlist-music-app',
+  appId: 'com.blogspot.playlistmusicapp',
+  appName: 'Play List Music App',
   webDir: 'build',
   bundledWebRuntime: false
 };
